@@ -1,4 +1,4 @@
----
+<!-- ---
 template: HomePage
 slug: ''
 title: Mostafa
@@ -27,4 +27,17 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms) -->
+
+---
+
+template: BlogIndex
+slug: ''
+title: Blog Page
+featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
+subtitle: This is the blog page subtitle.
+meta:
+description: This is a meta description.
+title: Blog Page
+
+---
