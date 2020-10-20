@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
-slug: ''
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+slug: ""
+title: مصطفی پایدارصفت
+featuredImage: https://ucarecdn.com/637e1834-e98c-4277-afbe-d6ee3b664ad5/
+subtitle: ""
 meta:
   description: This is a meta description.
   title: Blog Page
 ---
+یاداشت هایی از تجربیات و اموخته های من
