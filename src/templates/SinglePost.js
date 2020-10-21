@@ -22,8 +22,8 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
+        <Link className="SinglePost--BackButton" to="/">
+          <ChevronLeft /> بازگشت
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
@@ -69,7 +69,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                متن قبلی
               </Link>
             )}
             {nextPostURL && (
@@ -77,7 +77,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                متن بعدی
               </Link>
             )}
           </div>
